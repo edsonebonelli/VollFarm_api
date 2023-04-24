@@ -1,6 +1,6 @@
 <h1>Seção 1 da formação Java e SpringBoot Alura</h1>
 
-<p>Desenvolvimento de uma API</p>
+<h1>Desenvolvimento de uma API</h1>
    
 <p>A primeira parte desta API consiste nos seguintes aprendizado:</p>
 
