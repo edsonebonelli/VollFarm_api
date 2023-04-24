@@ -8,8 +8,7 @@
 <h1> Técnologias Usada 💻 </h1>
 
 <h1> IDE </h1>
-
-https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white
+![Alt ou título da imagem](https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
 
 <h1> Skills </h1>
 
